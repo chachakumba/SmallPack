@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c1c0a4dcfa120b40a9a282fd567fae7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - masterVol: {instanceID: 0}
+  - mainMenuMusicSource: {instanceID: 0}
+  - mainMenuSoundsSource: {instanceID: 0}
+  - mainMenuMusic: {instanceID: 0}
+  - buttonPress: {fileID: 8300000, guid: 70d91a0d8180ac64889124c387a1687b, type: 3}
+  - buttonDeny: {fileID: 8300000, guid: d153104152942bb44a8696a42cb63545, type: 3}
+  - buttonAllow: {fileID: 8300000, guid: db11e27f36883944080900b658921a28, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

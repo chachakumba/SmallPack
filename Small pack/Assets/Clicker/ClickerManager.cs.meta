@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9a59d0127f4a4074db22258655f5bb7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - totalMoneyText: {instanceID: 0}
+  - moneyPerSecondText: {instanceID: 0}
+  - spawnOfMiners: {instanceID: 0}
+  - spawnOfUpgrades: {instanceID: 0}
+  - minerPanelPrefab: {fileID: 739864609408136365, guid: 9d8b317ff9c47b941851df13d4e853ba, type: 3}
+  - upgraderPanelPrefab: {fileID: 5611975697069862392, guid: ba77e8ad69e9765458f0c8a408197e46, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
